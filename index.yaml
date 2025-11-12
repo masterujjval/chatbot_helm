@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ugchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-11-12T11:58:08.047858341Z"
+    description: A Helm chart for Kubernetes
+    digest: acd2fc145ec61e72466208ec61c7ff5361469afb6c5903ca2af0b3703e13c084
+    name: ugchart
+    type: application
+    urls:
+    - https://masterujjval.github.io/chatbot_helm/ugchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-11-12T11:58:08.047553785Z"
