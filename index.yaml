@@ -3,7 +3,7 @@ entries:
   ugchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-20T06:02:50.440300727Z"
+    created: "2025-11-20T06:10:28.140186827Z"
     description: A Helm chart for Kubernetes
     digest: 91aa6e7f5da6e8736ceb07672bb0cd0edcda7bff4aa69656e6fad12b38ee60aa
     name: ugchart
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://masterujjval.github.io/chatbot_helm/ugchart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-20T06:02:50.439958426Z"
+generated: "2025-11-20T06:10:28.139799474Z"
